@@ -1,3 +1,4 @@
+Attribute VB_Name = "E164Number"
 Option Explicit
 
 Dim iso3166 As Collection
