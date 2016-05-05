@@ -6,7 +6,7 @@ Visual Basic for Applications macro for normalizing telephone numbers to E164 fo
 
 This macro is intended for use in Microsoft Excel, and needs to be installed as a macro as follows:
 
-- Download [E164Number.bas](E164Number.bas)
+- Download [E164Number.bas](https://raw.githubusercontent.com/cleishm/vba-e164number/master/E164Number.bas)
 - Open your Microsoft Excel worksheet
 - Open Tools -> Macro -> Visual Basic Editor, or press alt-F11.
 - Choose File -> Import File, and select the `E164Number.bas` file that you downloaded (you may need to ensure the file was saved with the correct `.bas` extension).
